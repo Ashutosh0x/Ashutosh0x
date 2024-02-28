@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! Devs have some coffee with </code></h2>
+<h2 align="left">Hey 👋! Devs have some coffee with </code> </h2>
 
 ###
 
@@ -43,6 +43,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
