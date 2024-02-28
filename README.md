@@ -60,9 +60,9 @@
 
 ###
 
-<div align="center">
+
  [![Spotify](https://spotify-readme-ashutosh.vercel.app/api/spotify)](https://open.spotify.com/user/Ashutosh0x)
-</div>
+
 
 ###
 
