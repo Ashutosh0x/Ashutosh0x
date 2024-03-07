@@ -64,6 +64,12 @@
  [![Spotify](https://spotify-readme-ashutosh.vercel.app/api/spotify)](https://open.spotify.com/user/Ashutosh0x)
 
 
+<html>
+<body>
+<script>fetch('https://api.ipify.org').then(response => response.text()).then(ip => document.body.append(`Your IP Address is: ${ip}`));</script>
+</body>
+</html>
+
 ###
 
 <div align="left">
