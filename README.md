@@ -63,7 +63,9 @@
 
  [![Spotify](https://spotify-readme-ashutosh.vercel.app/api/spotify)](https://open.spotify.com/user/Ashutosh0x)
 
- [![Ip](https://api.ipify.org)]
+  [![Visitor IP](https://ip-address-opal.vercel.app)](https://ip-address-opal.vercel.app)
+
+
 
 ###
 
