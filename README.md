@@ -122,6 +122,6 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/Ashutosh0x/Ashutosh0x/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Ashutosh0x/icons/blob/main/snake.svg" alt="Snake animation" />
 
 ###
