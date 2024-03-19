@@ -1,5 +1,5 @@
-<h1> Hi 👋! I Ashutosh </h1>
-<h2> Devloper | Security | Devops</h2>
+<center> <h1> Hi 👋! I'm Ashutosh Kumar Singh</h1> </center>
+<center> <h2> Devloper | Security | Devops</h2> </center>
 <h2 align="left"> Devs have some coffee with code <a href="#" target="blank"><img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" alt="Code with Coffee" height="60" width="60" ></a> </h2>
 
 ###
