@@ -1,5 +1,5 @@
 
-<h2 align="left">Hey 👋! Devs have some coffee with code  </h2> <a href="#" target="blank"><img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" alt="Code with Coffee" height="60" width="60" ></a>
+<h2 align="left">Hey 👋! Devs have some coffee with code  <a href="#" target="blank"><img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" alt="Code with Coffee" height="60" width="60" ></a> </h2>
 
 ###
 
