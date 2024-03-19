@@ -47,7 +47,32 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+</div>
 
+###
 <h2>Certifications & Badges 🎖️</h2>
 
    <a href="https://dev.to/badge/hacktoberfest-2021" target="blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest2021" height="80" width="80" ></a> <a href="https://www.cloudskillsboost.google/public_profiles/9ee1d409-5342-4b96-bd6a-f7cc69bc82af" target="blank"><img src="https://github.com/Ashutosh0x/icons/blob/main/flycup%20challeneg.png" alt="Google Cloud Flpy Cup Challenge" height="80" width="80" ></a> <a href="https://www.credential.net/393ab745-c88d-4f7b-8115-481f0850c858" target="blank"><img src="https://images.credential.net/badge/tiny/2qo5o5vm_1710822118969_badge.png" alt="Cloud Digital leader" height="80" width="80" ></a><a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank"><img src="https://images.credential.net/badge/tiny/zzteqp1f_1710821711216_badge.png" alt="Cloud Architect" height="80" width="80" ></a><a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank"><img src="https://images.credential.net/badge/tiny/zzteqp1f_1710821711216_badge.png" alt="Cloud Security" height="80" width="80" ></a>
