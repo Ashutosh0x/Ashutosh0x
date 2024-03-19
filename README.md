@@ -41,6 +41,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
 
+##Certifications & Badges 🎖️
    <a href="https://dev.to/badge/hacktoberfest-2021" target="blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest2021" height="60" width="60" ></a> <a href="https://www.credential.net/393ab745-c88d-4f7b-8115-481f0850c858" target="blank"><img src="https://images.credential.net/badge/tiny/2qo5o5vm_1710822118969_badge.png" alt="Cloud Digital leader" height="80" width="80" ></a><a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank"><img src="https://images.credential.net/badge/tiny/zzteqp1f_1710821711216_badge.png" alt="Cloud Architect" height="80" width="80" ></a><a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank"><img src="https://images.credential.net/badge/tiny/zzteqp1f_1710821711216_badge.png" alt="Cloud Security" height="80" width="80" ></a>
 
 
