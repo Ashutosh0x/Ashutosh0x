@@ -109,9 +109,7 @@
 ###
 
 ###
-<div align="left">
- <a href="#">
-  <img height=150 align="center" src="https://my-stats-43gk.vercel.app/api?username=Ashutosh0x&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+<div align="left"><a href="#"><img height=150 align="center" src="https://my-stats-43gk.vercel.app/api?username=Ashutosh0x&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
   <img src="https://streak-stats.demolab.com?user=Ashutosh0x&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutosh0x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
