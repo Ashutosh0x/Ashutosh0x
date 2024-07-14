@@ -88,7 +88,7 @@
 
  [![Spotify](https://spotify-readme-ashutosh.vercel.app/api/spotify)](https://open.spotify.com/user/Ashutosh0x)
 
-  [![Visitor IP](https://ip-address-opal.vercel.app)](https://ip-address-opal.vercel.app)
+![IP Address](https://ip-address-opal.vercel.app/image-url)
 
 
 
