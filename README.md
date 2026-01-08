@@ -5,7 +5,7 @@
 
 <h3 align="center">Software Engineer | Security | Devops</h3>
 
-I work on building secure, scalable cloud systems across AWS and GCP, with experience in backend engineering, distributed systems, and security automation.
+I work on building secure, scalable cloud systems across AWS and GCP, with experience in Full Stack, Backend Engineering, distributed systems, and security automation.
 
 Recently, I contributed a backward-compatible fix to Google DeepMind’s open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
 
