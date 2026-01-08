@@ -77,7 +77,7 @@ Recently, I contributed a backward-compatible fix to Google DeepMind’s open-so
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googledeepmind/4285F4" height="40" alt="deepmind logo" />
+  <img src="https://cdn.simpleicons.org/deepmind/4285F4" height="40" alt="deepmind logo" />
 </div>
 
 ###
