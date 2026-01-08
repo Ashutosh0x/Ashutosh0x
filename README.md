@@ -9,6 +9,8 @@ I work on building secure, scalable cloud systems across AWS and GCP, with exper
 
 I am also passionate about AI/ML and actively contribute to the open-source ecosystem to advance reliable AI infrastructure.
 
+🚀 Currently competing in the **ICPC 2025 Online Winter Challenge** (Huawei/Codeforces), ranking **Top 70 globally (~67)**.
+
 Recently, I contributed a backward-compatible fix to Google DeepMind’s open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
 
 
