@@ -2,7 +2,13 @@
 
 ###
  
+
 <h3 align="center">Software Engineer | Security | Devops</h3>
+
+I work on building secure, scalable cloud systems across AWS and GCP, with experience in backend engineering, distributed systems, and security automation.
+
+Recently, I contributed a backward-compatible fix to Google DeepMind’s open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
+
 
 ###
 <h2 align="left"> Devs have some coffee with code <a href="#" target="blank"><img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" alt="Code with Coffee" height="60" width="60" ></a> </h2>
@@ -70,6 +76,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googledeepmind/4285F4" height="40" alt="deepmind logo" />
 </div>
 
 ###
