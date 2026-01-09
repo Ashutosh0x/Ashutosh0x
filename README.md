@@ -13,6 +13,12 @@ I am also passionate about AI/ML and actively contribute to the open-source ecos
 
 Recently, I contributed a backward-compatible fix to Google DeepMind’s open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
 
+<p align="left">
+  <a href="https://github.com/google-deepmind">
+    <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
+  </a>
+</p>
+
 
 ###
 <h2 align="left"> Devs have some coffee with code <a href="#" target="blank"><img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" alt="Code with Coffee" height="60" width="60" ></a> </h2>
