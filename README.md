@@ -13,9 +13,14 @@ I am also passionate about AI/ML and actively contribute to the open-source ecos
 
 Recently, I contributed a backward-compatible fix to Google DeepMind’s open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
 
+I also contributed to issue investigation and resolution in the official StripeJS repository.
+
 <p align="left">
-  <a href="https://github.com/google-deepmind">
-    <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
+  <a href="https://github.com/google-deepmind/chex/pull/423#pullrequestreview-3631540580">
+    <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
+  </a>
+  <a href="https://github.com/stripe/stripe-js/issues/849#event-22146631473">
+    <img src="https://img.shields.io/badge/Contributor-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Contributor" />
   </a>
 </p>
 
