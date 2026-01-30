@@ -15,6 +15,8 @@ Recently, I contributed a backward-compatible fix to Google DeepMind’s open-so
 
 I also contributed to issue investigation and resolution in the official StripeJS repository.
 
+I further contributed to **Bazel**, implementing a fail-over mechanism for TLS errors in the Repository Downloader, which was merged into the official repository.
+
 <p align="left">
   <a href="https://github.com/google-deepmind/chex/pull/423#pullrequestreview-3631540580">
     <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
@@ -22,7 +24,11 @@ I also contributed to issue investigation and resolution in the official StripeJ
   <a href="https://github.com/stripe/stripe-js/issues/849#event-22146631473">
     <img src="https://img.shields.io/badge/Contributor-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Contributor" />
   </a>
+  <a href="https://github.com/bazelbuild/bazel/pull/28459">
+    <img src="https://img.shields.io/badge/Contributor-Bazel-00ADEE?style=for-the-badge&logo=bazel&logoColor=white" alt="Bazel Contributor" />
+  </a>
 </p>
+
 
 
 ###
