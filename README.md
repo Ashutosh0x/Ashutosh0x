@@ -17,6 +17,8 @@ I also contributed to issue investigation and resolution in the official StripeJ
 
 I further contributed to **Bazel**, implementing a fail-over mechanism for TLS errors in the Repository Downloader, which was merged into the official repository.
 
+Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI bug that caused the authentication menu to exit prematurely, which was merged into the official repository.
+
 <p align="left">
   <a href="https://github.com/google-deepmind/chex/pull/423#pullrequestreview-3631540580">
     <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
@@ -26,6 +28,9 @@ I further contributed to **Bazel**, implementing a fail-over mechanism for TLS e
   </a>
   <a href="https://github.com/bazelbuild/bazel/pull/28459">
     <img src="https://img.shields.io/badge/Contributor-Bazel-00ADEE?style=for-the-badge&logo=bazel&logoColor=white" alt="Bazel Contributor" />
+  </a>
+  <a href="https://github.com/openai/codex/pull/10729">
+    <img src="https://img.shields.io/badge/Contributor-OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex Contributor" />
   </a>
 </p>
 
