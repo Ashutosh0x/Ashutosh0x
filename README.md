@@ -30,7 +30,7 @@ Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI 
     <img src="https://img.shields.io/badge/Contributor-Bazel-00ADEE?style=for-the-badge&logo=bazel&logoColor=white" alt="Bazel Contributor" />
   </a>
   <a href="https://github.com/openai/codex/pull/10729">
-    <img src="https://img.shields.io/badge/Contributor-OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex Contributor" />
+    <img src="https://img.shields.io/badge/Contributor-OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex Contributor" />
   </a>
 </p>
 
