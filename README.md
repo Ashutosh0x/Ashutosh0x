@@ -144,12 +144,10 @@ Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI 
 </div>
 
 
+
 ###
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh0x&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-<div align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashutosh0x&show_icons=true&theme=radical&hide=contribs,issues&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ashutosh0x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
