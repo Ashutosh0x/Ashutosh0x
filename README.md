@@ -145,6 +145,15 @@ Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI 
 
 
 ###
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh0x&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ashutosh0x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=0AF757&background=E1115900&multiline=true&random=false&width=3000&height=100&lines=%22They+showed+themselves%2C+the+top+1%25+of+the+1%25%2C+the+ones+in+control%2C+the+ones+who+play+God+without+permission.+And+now+I'm+gonna+take+them+down.%22)](https://git.io/typing-svg)
 
 ###
