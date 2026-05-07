@@ -11,7 +11,7 @@ I am also passionate about AI/ML and actively contribute to the open-source ecos
 
 
 
-Recently, I contributed a backward-compatible fix to Google DeepMind’s open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
+Recently, I contributed a backward-compatible fix to Google DeepMind's open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
 
 I also contributed to issue investigation and resolution in the official StripeJS repository.
 
@@ -79,7 +79,8 @@ Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI 
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  
+</div>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -109,39 +110,74 @@ Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI 
 ###
 <h2>Certifications & Badges 🎖️</h2>
 
-<a href="https://www.cloudskillsboost.google/public_profiles/9ee1d409-5342-4b96-bd6a-f7cc69bc82af" target="blank"><img src="https://github.com/Ashutosh0x/icons/blob/main/flycup%20challeneg.png" alt="Google Cloud Flpy Cup Challenge" height="80" width="80" ></a> <a href="https://www.credential.net/393ab745-c88d-4f7b-8115-481f0850c858" target="blank"><img src="https://images.credential.net/badge/tiny/2qo5o5vm_1710822118969_badge.png" alt="Cloud Digital leader" height="80" width="80" ></a><a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank"><img src="https://images.credential.net/badge/tiny/zzteqp1f_1710821711216_badge.png" alt="Cloud Architect" height="80" width="80" ></a><a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank"><img src="https://templates.images.credential.net/16590189116921664807425410566136.png" alt="Cloud Security" height="80" width="80" ></a><a href="https://www.credly.com/badges/890def21-59a7-43b7-8e2c-ba30dec236ab" target="blank"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure 900" height="80" width="80" ></a><a href="https://www.credly.com/earner/earned/badge/a465093d-9f50-4a81-a3a8-784ddaf2791e" target="blank"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt=" Microsoft Security Compliance" height="80" width="80" ></a><a href="https://leetcode.com/u/Ashutosh0x/" target="blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" height="80" width="80" ></a>
-
-
-
-
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.cloudskillsboost.google/public_profiles/9ee1d409-5342-4b96-bd6a-f7cc69bc82af" target="blank">
+        <img src="https://github.com/Ashutosh0x/icons/blob/main/flycup%20challeneg.png" alt="Google Cloud Fly Cup Challenge" height="80" width="80" />
+      </a>
+      <br /><sub><b>GCP Fly Cup</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.credential.net/393ab745-c88d-4f7b-8115-481f0850c858" target="blank">
+        <img src="https://images.credential.net/badge/tiny/2qo5o5vm_1710822118969_badge.png" alt="Cloud Digital Leader" height="80" width="80" />
+      </a>
+      <br /><sub><b>Cloud Digital Leader</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank">
+        <img src="https://images.credential.net/badge/tiny/zzteqp1f_1710821711216_badge.png" alt="Cloud Architect" height="80" width="80" />
+      </a>
+      <br /><sub><b>Cloud Architect</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.credential.net/713ca820-7ced-43ef-baf0-4a4264806747" target="blank">
+        <img src="https://templates.images.credential.net/16590189116921664807425410566136.png" alt="Cloud Security" height="80" width="80" />
+      </a>
+      <br /><sub><b>Cloud Security</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.credly.com/badges/890def21-59a7-43b7-8e2c-ba30dec236ab" target="blank">
+        <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure 900" height="80" width="80" />
+      </a>
+      <br /><sub><b>Azure AZ-900</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.credly.com/earner/earned/badge/a465093d-9f50-4a81-a3a8-784ddaf2791e" target="blank">
+        <img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Security Compliance" height="80" width="80" />
+      </a>
+      <br /><sub><b>SC-900</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://leetcode.com/u/Ashutosh0x/" target="blank">
+        <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" height="80" width="80" />
+      </a>
+      <br /><sub><b>LeetCode 50</b></sub>
+    </td>
+  </tr>
+</table>
 
 ###
 
 <br clear="both">
 
-
-
-
-
  [![𝐘𝐨𝐮𝐫 𝐈𝐏🌐](https://ip-address-opal.vercel.app/)](https://ip-address-opal.vercel.app)
-
-
 
 ###
 
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/ashutosh-kumar-singh951/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+  &nbsp;
   <a href="https://twitter.com/0xAshutosh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+</p>
 
 
 
