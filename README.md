@@ -19,6 +19,8 @@ I further contributed to **Bazel**, implementing a fail-over mechanism for TLS e
 
 Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI bug that caused the authentication menu to exit prematurely, which was merged into the official repository.
 
+I also completed a **$1,500 bounty** for **Tenstorrent** — porting the **Depth Anything V2 Large** model (DINOv2 ViT-L + DPT decoder) to TTNN for Wormhole B0 hardware, achieving end-to-end PCC of **0.9983**. The bounty was reviewed, approved, and [marked complete](https://github.com/tenstorrent/tt-metal/issues/31286#issuecomment-4503856597) by the Tenstorrent team.
+
 <p align="left">
   <a href="https://github.com/google-deepmind/chex/pull/423#pullrequestreview-3631540580">
     <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
@@ -32,9 +34,33 @@ Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI 
   <a href="https://github.com/openai/codex/pull/10729">
     <img src="https://img.shields.io/badge/Contributor-OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex Contributor" />
   </a>
+  <a href="https://github.com/tenstorrent/tt-metal/issues/31286#issuecomment-4503856597">
+    <img src="https://img.shields.io/badge/Bounty%20Hunter-Tenstorrent%20%241%2C500-7B2FF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=white" alt="Tenstorrent Bounty Hunter" />
+  </a>
 </p>
 
 
+
+###
+
+<h2 align="left">🏆 Bounties & Achievements</h2>
+
+<table>
+  <tr>
+    <th>Bounty</th>
+    <th>Organization</th>
+    <th>Value</th>
+    <th>Status</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><b>Depth Anything V2 Large</b><br/><sub>Full TTNN port for Wormhole B0 (DINOv2 ViT-L + DPT decoder)</sub></td>
+    <td><a href="https://tenstorrent.com">Tenstorrent</a></td>
+    <td><b>$1,500</b></td>
+    <td>✅ Completed</td>
+    <td><a href="https://github.com/tenstorrent/tt-metal/issues/31286">Issue #31286</a> · <a href="https://github.com/tenstorrent/tt-metal/pull/35565">PR #35565</a> · <a href="https://github.com/tenstorrent/tt-metal/issues/31286#issuecomment-4503856597">Completion</a></td>
+  </tr>
+</table>
 
 ###
 <h2 align="left"> Devs have some coffee with code <a href="#" target="blank"><img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" alt="Code with Coffee" height="60" width="60" ></a> </h2>
