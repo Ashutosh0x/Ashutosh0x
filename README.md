@@ -43,26 +43,6 @@ I also completed a **$1,500 bounty** for **Tenstorrent** — porting the **Depth
 
 ###
 
-<h2 align="left">🏆 Bounties & Achievements</h2>
-
-<table>
-  <tr>
-    <th>Bounty</th>
-    <th>Organization</th>
-    <th>Value</th>
-    <th>Status</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td><b>Depth Anything V2 Large</b><br/><sub>Full TTNN port for Wormhole B0 (DINOv2 ViT-L + DPT decoder)</sub></td>
-    <td><a href="https://tenstorrent.com">Tenstorrent</a></td>
-    <td><b>$1,500</b></td>
-    <td>✅ Completed</td>
-    <td><a href="https://github.com/tenstorrent/tt-metal/issues/31286">Issue #31286</a> · <a href="https://github.com/tenstorrent/tt-metal/pull/35565">PR #35565</a> · <a href="https://github.com/tenstorrent/tt-metal/issues/31286#issuecomment-4503856597">Completion</a></td>
-  </tr>
-</table>
-
-###
 <h2 align="left"> Devs have some coffee with code <a href="#" target="blank"><img src="https://media.tenor.com/drlZ92prkqgAAAAi/coffee-drink.gif" alt="Code with Coffee" height="60" width="60" ></a> </h2>
 
 ###
