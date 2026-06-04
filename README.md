@@ -39,7 +39,7 @@ I also contributed multiple security fixes to **TensorFlow**, addressing critica
     <img src="https://img.shields.io/badge/Contributor-OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex Contributor" />
   </a>
   <a href="https://github.com/tenstorrent/tt-metal/issues/31286#issuecomment-4503856597">
-    <img src="https://img.shields.io/badge/Bounty%20Hunter-Tenstorrent%20%241%2C500-7B2FF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=white" alt="Tenstorrent Bounty Hunter" />
+    <img src="https://img.shields.io/badge/Bounty%20Reward-Tenstorrent%20%241%2C500-7B2FF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=white" alt="Tenstorrent Bounty Hunter" />
   </a>
   <a href="https://github.com/google/adk-python/pull/5927">
     <img src="https://img.shields.io/badge/Security%20Contributor-Google%20ADK-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK Security Contributor" />
