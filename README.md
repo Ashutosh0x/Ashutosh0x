@@ -23,6 +23,8 @@ I also completed a **$1,500 bounty** for **Tenstorrent** — porting the **Depth
 
 I also contributed a security patch to **Google ADK-Python**, fixing a [path traversal (Zip Slip) vulnerability](https://github.com/google/adk-python/pull/5927) in GCS skill extraction that could allow arbitrary file write and remote code execution (CWE-22). The fix was reviewed, approved, and merged into the official repository.
 
+I also contributed multiple security fixes to **TensorFlow**, addressing critical memory safety vulnerabilities including a [heap OOB read in TFLite FlatBuffer allocation](https://github.com/tensorflow/tensorflow/pull/120175), [heap corruption in OneDNN batch matmul](https://github.com/tensorflow/tensorflow/pull/120199), and [CHECK failures across core ops](https://github.com/tensorflow/tensorflow/pull/120211) — preventing crashes and potential code execution in production ML pipelines.
+
 <p align="left">
   <a href="https://github.com/google-deepmind/chex/pull/423#pullrequestreview-3631540580">
     <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
@@ -41,6 +43,9 @@ I also contributed a security patch to **Google ADK-Python**, fixing a [path tra
   </a>
   <a href="https://github.com/google/adk-python/pull/5927">
     <img src="https://img.shields.io/badge/Security%20Contributor-Google%20ADK-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK Security Contributor" />
+  </a>
+  <a href="https://github.com/tensorflow/tensorflow/pull/120175">
+    <img src="https://img.shields.io/badge/Security%20Contributor-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Security Contributor" />
   </a>
 </p>
 
