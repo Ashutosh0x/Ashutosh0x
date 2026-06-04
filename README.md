@@ -21,6 +21,8 @@ Most recently, I contributed to **OpenAI Codex**, fixing a critical Windows TUI 
 
 I also completed a **$1,500 bounty** for **Tenstorrent** — porting the **Depth Anything V2 Large** model (DINOv2 ViT-L + DPT decoder) to TTNN for Wormhole B0 hardware, achieving end-to-end PCC of **0.9983**. The bounty was reviewed, approved, and [marked complete](https://github.com/tenstorrent/tt-metal/issues/31286#issuecomment-4503856597) by the Tenstorrent team.
 
+I also contributed a security patch to **Google ADK-Python**, fixing a [path traversal (Zip Slip) vulnerability](https://github.com/google/adk-python/pull/5927) in GCS skill extraction that could allow arbitrary file write and remote code execution (CWE-22). The fix was reviewed, approved, and merged into the official repository.
+
 <p align="left">
   <a href="https://github.com/google-deepmind/chex/pull/423#pullrequestreview-3631540580">
     <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
@@ -36,6 +38,9 @@ I also completed a **$1,500 bounty** for **Tenstorrent** — porting the **Depth
   </a>
   <a href="https://github.com/tenstorrent/tt-metal/issues/31286#issuecomment-4503856597">
     <img src="https://img.shields.io/badge/Bounty%20Hunter-Tenstorrent%20%241%2C500-7B2FF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=white" alt="Tenstorrent Bounty Hunter" />
+  </a>
+  <a href="https://github.com/google/adk-python/pull/5927">
+    <img src="https://img.shields.io/badge/Security%20Contributor-Google%20ADK-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK Security Contributor" />
   </a>
 </p>
 
