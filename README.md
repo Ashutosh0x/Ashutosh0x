@@ -1,6 +1,6 @@
 <h1 align="center">Ashutosh Kumar Singh</h1>
 
-<h3 align="center">Security Engineer @ Skyhigh Security · ML Systems Researcher · NeurIPS 2026 Author</h3>
+<h3 align="center">Software and Security @ Skyhigh Security · ML Systems Researcher · NeurIPS 2026 Author</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-kumar-singh951/">
