@@ -87,8 +87,10 @@ I discovered a systematic class of **fp16 overflow failures** on Apple Neural En
 
 ### 📄 Research
 
-**Compiler-Level Numerical Stabilization for Half-Precision Inference on Neural Accelerators**
+**[Compiler-Level Numerical Stabilization for Half-Precision Inference on Neural Accelerators](https://github.com/Ashutosh0x/fp16-numerical-stability-neurips2026)**
 *NeurIPS 2026 Workshop Submission · Ashutosh Kumar Singh*
+
+[![Read Paper](https://img.shields.io/badge/📄_Read_Full_Paper-LaTeX-blue?style=for-the-badge)](https://github.com/Ashutosh0x/fp16-numerical-stability-neurips2026)
 
 Cross-framework audit of Apple's entire ML stack (5 frameworks × 5 operations × 21 models). Derived overflow-free algebraic decompositions validated on M3 Max and M5 silicon with zero regressions.
 
