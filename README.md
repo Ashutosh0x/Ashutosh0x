@@ -15,7 +15,7 @@ I am also passionate about AI/ML and actively contribute to the open-source ecos
 
 I identified and fixed a systematic class of **fp16 overflow failures** affecting 5 operations on Apple's Neural Engine, where outputs silently collapse to zero at well-defined thresholds (e.g., `softplus` at x ≈ 10.4). I submitted fixes across **3 Apple frameworks**:
 
-- **[apple/coremltools PR #2725](https://github.com/apple/coremltools/pull/2725)** — Stable softplus & mish decomposition for fp16 ANE inference (**reviewer-approved, merge-ready** ✅)
+- **[apple/coremltools PR #2725](https://github.com/apple/coremltools/pull/2725)** — Stable softplus & mish decomposition for fp16 ANE inference (**reviewer-approved, merge-ready** )
 - **[apple/coremltools PR #2726](https://github.com/apple/coremltools/pull/2726)** — Stable logsumexp via max-shift decomposition
 - **[apple/coremltools PR #2727](https://github.com/apple/coremltools/pull/2727)** — Stable log_softmax & logcumsumexp for fp16
 - **[apple/coreai-torch PR #22](https://github.com/apple/coreai-torch/pull/22)** — First external fp16 stability fix on Apple's brand-new Core AI framework (WWDC 2026)
