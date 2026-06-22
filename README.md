@@ -3,13 +3,27 @@
 ###
  
 
-<h3 align="center">Software Engineer | Security | Devops</h3>
+<h3 align="center">Software Engineer | ML Systems | Numerical Stability Researcher</h3>
 
 I work on building secure, scalable cloud systems across AWS and GCP, with experience in Full Stack, Backend Engineering, distributed systems, and security automation.
 
 I am also passionate about AI/ML and actively contribute to the open-source ecosystem to advance reliable AI infrastructure.
 
+---
 
+#### 🍎 Apple ML Framework Contributions — fp16 Numerical Stability
+
+I identified and fixed a systematic class of **fp16 overflow failures** affecting 5 operations on Apple's Neural Engine, where outputs silently collapse to zero at well-defined thresholds (e.g., `softplus` at x ≈ 10.4). I submitted fixes across **3 Apple frameworks**:
+
+- **[apple/coremltools PR #2725](https://github.com/apple/coremltools/pull/2725)** — Stable softplus & mish decomposition for fp16 ANE inference (**reviewer-approved, merge-ready** ✅)
+- **[apple/coremltools PR #2726](https://github.com/apple/coremltools/pull/2726)** — Stable logsumexp via max-shift decomposition
+- **[apple/coremltools PR #2727](https://github.com/apple/coremltools/pull/2727)** — Stable log_softmax & logcumsumexp for fp16
+- **[apple/coreai-torch PR #22](https://github.com/apple/coreai-torch/pull/22)** — First external fp16 stability fix on Apple's brand-new Core AI framework (WWDC 2026)
+- **[apple/coreai-optimization Issue #7](https://github.com/apple/coreai-optimization/issues/7)** — Identified gap: FP16 casting pass ignores activation-level overflow
+
+I also conducted a **cross-framework audit** of Apple's entire ML stack (5 frameworks × 5 operations × 21 production models), confirming that MLX uses stable primitives while coremltools and Core AI were vulnerable. This work forms the basis of a **NeurIPS 2026 Workshop paper submission** on compiler-level numerical stabilization for neural accelerators.
+
+---
 
 Recently, I contributed a backward-compatible fix to Google DeepMind's open-source Chex library, modernizing JAX sharding detection for upcoming JAX 0.8.x releases. The change was reviewed, approved, and merged by a DeepMind maintainer.
 
@@ -26,6 +40,12 @@ I also contributed a security patch to **Google ADK-Python**, fixing a [path tra
 I also contributed multiple security fixes to **TensorFlow**, addressing critical memory safety vulnerabilities including a [heap OOB read in TFLite FlatBuffer allocation](https://github.com/tensorflow/tensorflow/pull/120175), [heap corruption in OneDNN batch matmul](https://github.com/tensorflow/tensorflow/pull/120199), and [CHECK failures across core ops](https://github.com/tensorflow/tensorflow/pull/120211) — preventing crashes and potential code execution in production ML pipelines.
 
 <p align="left">
+  <a href="https://github.com/apple/coremltools/pull/2725">
+    <img src="https://img.shields.io/badge/Contributor-Apple%20coremltools-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple coremltools Contributor" />
+  </a>
+  <a href="https://github.com/apple/coreai-torch/pull/22">
+    <img src="https://img.shields.io/badge/Contributor-Apple%20Core%20AI-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Core AI Contributor" />
+  </a>
   <a href="https://github.com/google-deepmind/chex/pull/423#pullrequestreview-3631540580">
     <img src="https://img.shields.io/badge/Contributor-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Contributor" />
   </a>
